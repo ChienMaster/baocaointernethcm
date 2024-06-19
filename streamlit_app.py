@@ -5,9 +5,9 @@ import altair as alt
 from datetime import datetime, timedelta
 
 # Page title
-st.set_page_config(page_title='Support Ticket Workflow', page_icon='🎫')
-st.title('🎫 Support Ticket Workflow')
-st.info('To write a ticket, fill out the form below. Check status or review ticketing analytics using the tabs below.')
+st.set_page_config(page_title='ACOM CORP', page_icon='💻')
+st.title('💻 Config to OLT ACOM')
+st.info('Cấu hình tự động OLT các dự án của ACOM trên toàn quốc và kiểm tra số lượng thuê bao đang tồn tại.')
 
 
 # Generate data
