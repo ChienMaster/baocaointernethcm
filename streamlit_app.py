@@ -71,7 +71,7 @@ def sort_df():
 
 
 # Tabs for app layout
-tabs = st.tabs(['Write a ticket', 'Ticket Status and Analytics'])
+tabs = st.tabs(['Cấu hình', 'Check thông tin dự án'])
 
 recent_ticket_number = int(max(st.session_state.df.ID).split('-')[1])
 
